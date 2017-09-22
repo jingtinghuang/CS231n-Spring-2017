@@ -1,4 +1,4 @@
-# cs231-2017
+# CS231n Spring 2017
 My solutions for cs231 2017 spring 
 
 Completed the tensorflow part of A2 and A3
